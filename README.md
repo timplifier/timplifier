@@ -1,28 +1,4 @@
-# Timur Abdyraev: Passionate Android Developer
-
-Hello, I'm Timur Abdyraev, an Android Developer with a year's solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
-
-## My Professional Journey 🚀
-
-I have been working as an Android Developer for half a year, during which I've breathed new life into many legacy projects that had been untouched by the latest technologies for years. My journey has included:
-
-- **Developing User Interfaces**: I've developed numerous user-friendly interfaces employing innovative UI Kits, resulting in intuitive and engaging user experiences.
-
-- **Implementing Agile and Scrum**: I am proficient in Agile and Scrum methodologies, which I have effectively employed to ensure smooth project management and efficient workflow.
-
-## My Focus Areas 🔍
-
-- **Code Optimization**: I am always on the lookout for opportunities to improve existing code, whether it's refactoring for better readability or enhancing performance.
-
-- **Technology Migration**: I actively seek opportunities to migrate projects to newer technologies when beneficial, which often results in more efficient, secure, and maintainable codebases.
-
-- **Application Architecture**: I have experience in manipulating the app's architecture and main components to optimize processes within the app, improving performance and user experience.
-
-## Continuous Learning 📚
-
-I am dedicated to continuous learning and stay up-to-date with the latest libraries, frameworks, and methods to enhance the user experience and bring cutting-edge solutions to my projects. 
-
-Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
+# Timur Abdyraev: Passionate Android DevelopeSure, here is the updated section for your technology stack including Android Studio, VIM, MacOS, and Postman:
 
 ## My Technology Stack 💻
 
@@ -31,6 +7,16 @@ Here are the technologies, languages, and libraries I have expertise in:
 - Languages: 
     - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
     - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+- IDE & Editors:
+    - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+    - ![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+
+- Operating System:
+    - ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+- API Testing & Development:
+    - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 - ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
@@ -60,7 +46,6 @@ Here are the technologies, languages, and libraries I have expertise in:
 - Networking:
     - Retrofit2
     - OkHttp3
-    - OAuth 2.0
 
 - Database:
     - Room
