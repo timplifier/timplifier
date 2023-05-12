@@ -101,6 +101,8 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
 
+[My Android Developer CV](https://timplifier.github.io/CV/)
+
 <div align="center">
 <a
   <a href="https://www.linkedin.com/in/timur-abdyraev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
