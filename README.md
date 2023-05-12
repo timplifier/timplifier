@@ -4,7 +4,7 @@ Hello, I'm Timur Abdyraev, an Android Developer with a year's solid experience s
 
 ## My Professional Journey 🚀
 
-I have been working as an Android Developer for nearly a year, during which I've breathed new life into many legacy projects that had been untouched by the latest technologies for years. My journey has included:
+I have been working as an Android Developer for half a year, during which I've breathed new life into many legacy projects that had been untouched by the latest technologies for years. My journey has included:
 
 - **Developing User Interfaces**: I've developed numerous user-friendly interfaces employing innovative UI Kits, resulting in intuitive and engaging user experiences.
 
@@ -24,6 +24,75 @@ I am dedicated to continuous learning and stay up-to-date with the latest librar
 
 Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
 
+## My Technology Stack 💻
+
+Here are the technologies, languages, and libraries I have expertise in:
+
+- Languages: 
+    - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+    - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+- ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+- Principles and Methodologies:
+    - OOP
+    - SOLID
+    - Clean Architecture
+    - Single Activity Architecture
+    - MVVM
+    - Modularization
+
+- Documentation: 
+    - Dokka (HTML-Based, Markdown-Based)
+
+- Version Control: 
+    - ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+    - GitFlow
+
+- Build Tools:
+    - Kotlin DSL
+    - Dependency Management (buildSrc, Version Catalog)
+
+- Dependency Injection:
+    - Dagger-Hilt
+    - Koin
+
+- Networking:
+    - Retrofit2
+    - OkHttp3
+    - OAuth 2.0
+
+- Database:
+    - Room
+
+- Image Loading Libraries:
+    - Glide
+    - Coil
+    - Picasso
+
+- Data Passing:
+    - Serializable
+    - Parcelable
+
+- Navigation:
+    - Navigation Component
+    - Safe Args
+    - Base Deep Linking
+
+- View Binding:
+    - ViewBinding
+    - ViewBindingPropertyDelegate
+
+- UI:
+    - Material Design
+    - ConstraintLayout
+    - Guidelines
+
+- Pagination Libraries:
+    - Paging3
+
+Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
+
 <div align="center">
 <a
   <a href="https://www.linkedin.com/in/timur-abdyraev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -31,5 +100,5 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
   <a href="mailto:timplifier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <div align="center">
-  <a href="https://github.com/Clar1fy"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=Clar1fy&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/Clar1fy"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=timplifier&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
 </div>
