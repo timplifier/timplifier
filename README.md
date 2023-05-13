@@ -1,6 +1,6 @@
 # Timur Abdyraev: Passionate Android Developer
 
-Hello, I'm Timur Abdyraev, an Android Developer with a 1 year and 4 months of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
+Hello, I'm Timur Abdyraev, an Android Developer with 1 year and 4 months of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
 
 ## My Professional Journey 🚀
 
