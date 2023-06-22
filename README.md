@@ -33,8 +33,8 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 - IDE & Editors:
     - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-    - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
     - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
     - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
     - ![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 
@@ -44,7 +44,6 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 - API Testing & Development:
     - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
     - ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 - Principles and Methodologies:
@@ -112,7 +111,6 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
 <a
   <a href="https://telegram.me/timplifier"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/timur-abdyraev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a><br/><b>timplifier</b>
   <a href="https://dev.to/timplifier"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="mailto:timplifier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
