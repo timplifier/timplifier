@@ -28,20 +28,24 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
 Here are the technologies, languages, and libraries I have expertise in:
 
 - Languages: 
-    - ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-    - ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+    - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+    - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - IDE & Editors:
     - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+    - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+    - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+    - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
     - ![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
 
 - Operating System:
     - ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+    - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 - API Testing & Development:
     - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+    - ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 - Principles and Methodologies:
     - OOP
@@ -59,6 +63,7 @@ Here are the technologies, languages, and libraries I have expertise in:
     - GitFlow
 
 - Build Tools:
+    - ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)    
     - Kotlin DSL
     - Dependency Management (buildSrc, Version Catalog)
 
@@ -105,9 +110,10 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
 
 <div align="center">
 <a
-  <a href="https://www.linkedin.com/in/timur-abdyraev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dev.to/timplifier"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="https://telegram.me/timplifier"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/timur-abdyraev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>timplifier</a>
+  <a href="https://dev.to/timplifier"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="mailto:timplifier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 <div align="center">
