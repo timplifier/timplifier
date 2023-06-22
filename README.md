@@ -113,8 +113,8 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
   <a href="https://www.linkedin.com/in/timur-abdyraev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://dev.to/timplifier"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
   <a href="mailto:timplifier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href=">https://www.codewars.com/users/timplifier"<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
   <a href="https://leetcode.com/timplifier/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
+  <a href=">https://www.codewars.com/users/timplifier"<img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
 </div>
 <div align="center">
   <a href="https://github.com/Clar1fy"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=timplifier&hide=contribs&show_icons=true&include_all_commits=true&count_private=true"/></a>
