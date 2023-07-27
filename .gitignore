@@ -1,2 +1,5 @@
 # Ignore node
 node_modules
+
+# Ignore Mac OS X
+**/.DS_Store
