@@ -30,6 +30,7 @@ Here are the technologies, languages, and libraries I have expertise in:
 - Languages: 
     - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
     - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+    - ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 - IDE & Editors:
     - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -45,6 +46,7 @@ Here are the technologies, languages, and libraries I have expertise in:
 - API Testing & Development:
     - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     - ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+    - ![iOS SDK](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 - Principles and Methodologies:
     - OOP
@@ -65,6 +67,10 @@ Here are the technologies, languages, and libraries I have expertise in:
     - ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)    
     - Kotlin DSL
     - Dependency Management (buildSrc, Version Catalog)
+
+- UI building:
+    - XML   
+    - ![SwiftUI](https://img.shields.io/badge/SwiftUI-1F77B4?style=for-the-badge&logo=swift&logoColor=white)
 
 - Dependency Injection:
     - Dagger-Hilt
