@@ -67,6 +67,8 @@ Here are the technologies, languages, and libraries I have expertise in:
     - ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)    
     - Kotlin DSL
     - Dependency Management (buildSrc, Version Catalog)
+- Linting
+    - Konsist
 
 - UI building:
     - XML   
