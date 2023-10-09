@@ -56,6 +56,9 @@ Here are the technologies, languages, and libraries I have expertise in:
     - MVVM
     - Modularization
 
+- Asynchronous programming
+    - kotlinx-coroutines
+    - RxJava
 - Documentation: 
     - Dokka (HTML-Based, Markdown-Based)
 
