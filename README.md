@@ -75,6 +75,7 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 - UI building:
     - XML   
+    - Jetpack Compose
     - ![SwiftUI](https://img.shields.io/badge/SwiftUI-1F77B4?style=for-the-badge&logo=swift&logoColor=white)
 
 - Dependency Injection:
