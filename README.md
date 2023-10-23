@@ -53,7 +53,7 @@ Here are the technologies, languages, and libraries I have expertise in:
     - SOLID
     - Clean Architecture
     - Single Activity Architecture
-    - MVVM, MVI, Orbit
+    - MVVM, MVI, Orbit, MVP
     - Modularization
 
 - Asynchronous programming
