@@ -83,9 +83,12 @@ Here are the technologies, languages, and libraries I have expertise in:
     - Dagger-Hilt
     - Koin
 
-- Networking:
+- REST API:
     - Retrofit2
     - OkHttp3
+
+- GraphQL:
+    - Apollo Client
 
 - Database:
     - Room
