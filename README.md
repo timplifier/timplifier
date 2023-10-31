@@ -84,6 +84,7 @@ Here are the technologies, languages, and libraries I have expertise in:
     - Koin
 
 - REST API:
+    - Ktor
     - Retrofit2
     - OkHttp3
 
