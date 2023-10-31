@@ -92,6 +92,7 @@ Here are the technologies, languages, and libraries I have expertise in:
     - Apollo Client
 
 - Database:
+    - Realm
     - Room
 
 - Image Loading Libraries:
