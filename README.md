@@ -75,7 +75,7 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 - UI building:
     - [![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)   
-    - [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-?style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF#3DDC84)](https://developer.android.com/jetpack/compose)
+    - [![Jetpack Compose](https://img.shields.io/static/v1?label=&message=Jetpack+Compose&color=%233DDC84&style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF)](https://developer.android.com/jetpack/compose)
     - ![SwiftUI](https://img.shields.io/badge/SwiftUI-1F77B4?style=for-the-badge&logo=swift&logoColor=white)
 
 - Dependency Injection:
