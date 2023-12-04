@@ -51,16 +51,14 @@ Here are the technologies, languages, and libraries I have expertise in:
 - Principles and Methodologies:
     - [![Object-oriented Programming](https://img.shields.io/static/v1?label=&message=Object-oriented+Programming&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/Object-oriented_programming)
     - [![SOLID](https://img.shields.io/static/v1?label=&message=SOLID&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/SOLID)
-    - [![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-?style=for-the-badge&logo=internetarchive#1B6AC6)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-    - Single Activity Architecture
+    - [![Clean Architecture](https://img.shields.io/static/v1?label=&message=Clean+Architecture&color=DA948F&style=for-the-badge&logo=internetarchive&logoColor=FFFFFF)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
     - MVVM, MVI, MVP
     - Modularization
 
 - Asynchronous programming
-    - [![kotlinx-coroutines](https://img.shields.io/badge/kotlinx--coroutines-?style=for-the-badge&logo=kashflow&logoColor=FFFFFF#7F52FF)](https://kotlinlang.org/docs/coroutines-guide.html)
-    - [![RxJava](https://img.shields.io/badge/RxJava-?style=for-the-badge&logo=reactivex&logoColor=FFFFFF#B7178C)](https://github.com/ReactiveX/RxJava)
-- Documentation: 
-    - [![Dokka](https://img.shields.io/badge/Dokka-?style=for-the-badge&logo=googledocs&logoColor=FFFFFF#7F52FF)](https://kotlinlang.org/docs/dokka-introduction.html)
+    - [![kotlinx-coroutines](https://img.shields.io/static/v1?label=&message=kotlinx-coroutines&color=%237F52FF&style=for-the-badge&logo=kashflow&logoColor=FFFFFF)](https://kotlinlang.org/docs/coroutines-guide.html#table-of-contents)
+    - [![RxJava](https://img.shields.io/static/v1?label=&message=RxJava&color=%23B7178C&style=for-the-badge&logo=reactivex&logoColor=FFFFFF)](https://github.com/ReactiveX/RxJava)- Documentation: 
+    - [![Dokka](https://img.shields.io/static/v1?label=&message=Dokka&color=%237F52FF&style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](https://kotlinlang.org/docs/dokka-introduction.html)
 
 - Version Control: 
     - ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -68,10 +66,8 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 - Build Tools:
     - ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)    
-    - Kotlin DSL
-    - Dependency Management (buildSrc, Version Catalog)
 - Linting
-    - Konsist
+    - [![Konsist](https://img.shields.io/static/v1?label=&message=Konsist&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://docs.konsist.lemonappdev.com/getting-started/readme)
 
 - UI building:
     - [![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)   
@@ -85,15 +81,15 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 - REST API:
     - Ktor
-    - Retrofit2
-    - OkHttp3
+    - [![Retrofit2](https://img.shields.io/static/v1?label=&message=Retrofit2&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/retrofit/)
+    - [![OkHttp](https://img.shields.io/static/v1?label=&message=OkHttp&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/okhttp/)
 
 - GraphQL:
-    - Apollo Client
+    - [![Apollo GraphQL](https://img.shields.io/static/v1?label=&message=Apollo+GraphQL&color=%23311C87&style=for-the-badge&logo=apollographql&logoColor=FFFFFF)](https://www.apollographql.com/docs/)
 
 - Database:
-    - Realm
-    - Room
+    - [![Realm](https://img.shields.io/static/v1?label=&message=Realm&color=%2339477F&style=for-the-badge&logo=realm&logoColor=FFFFFF)](https://realm.io/)
+    - [![Room](https://img.shields.io/static/v1?label=&message=Room&color=%233DDC84&style=for-the-badge&logo=android&logoColor=FFFFFF)](https://developer.android.com/training/data-storage/room)
 
 - Image Loading Libraries:
     - Glide
