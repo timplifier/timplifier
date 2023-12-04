@@ -52,8 +52,9 @@ Here are the technologies, languages, and libraries I have expertise in:
     - [![Object-oriented Programming](https://img.shields.io/static/v1?label=&message=Object-oriented+Programming&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/Object-oriented_programming)
     - [![SOLID](https://img.shields.io/static/v1?label=&message=SOLID&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/SOLID)
     - [![Clean Architecture](https://img.shields.io/static/v1?label=&message=Clean+Architecture&color=DA948F&style=for-the-badge&logo=internetarchive&logoColor=FFFFFF)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-    - MVVM, MVI, MVP
-    - Modularization
+    - [![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+    - [![MVP](https://img.shields.io/static/v1?label=&message=MVP&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
+    - [![MVI](https://img.shields.io/static/v1?label=&message=MVI&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://commonsware.com/AndroidArch/pages/chap-mvi-005)
 
 - Asynchronous programming
     - [![kotlinx-coroutines](https://img.shields.io/static/v1?label=&message=kotlinx-coroutines&color=%237F52FF&style=for-the-badge&logo=kashflow&logoColor=FFFFFF)](https://kotlinlang.org/docs/coroutines-guide.html#table-of-contents)
@@ -75,12 +76,12 @@ Here are the technologies, languages, and libraries I have expertise in:
     - ![SwiftUI](https://img.shields.io/badge/SwiftUI-1F77B4?style=for-the-badge&logo=swift&logoColor=white)
 
 - Dependency Injection:
-    - Dagger2
-    - Dagger-Hilt
-    - Koin
+    - [![Dagger 2](https://img.shields.io/static/v1?label=&message=Dagger+2&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/)
+    - [![Hilt](https://img.shields.io/static/v1?label=&message=Hilt&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/hilt/)
+    - [![Koin](https://img.shields.io/static/v1?label=&message=Koin&color=%232F2E2E&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://insert-koin.io/)
 
 - REST API:
-    - Ktor
+    - [![Ktor](https://img.shields.io/static/v1?label=&message=Ktor&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://ktor.io/)
     - [![Retrofit2](https://img.shields.io/static/v1?label=&message=Retrofit2&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/retrofit/)
     - [![OkHttp](https://img.shields.io/static/v1?label=&message=OkHttp&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/okhttp/)
 
@@ -89,33 +90,23 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 - Database:
     - [![Realm](https://img.shields.io/static/v1?label=&message=Realm&color=%2339477F&style=for-the-badge&logo=realm&logoColor=FFFFFF)](https://realm.io/)
-    - [![Room](https://img.shields.io/static/v1?label=&message=Room&color=%233DDC84&style=for-the-badge&logo=android&logoColor=FFFFFF)](https://developer.android.com/training/data-storage/room)
+    - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-- Image Loading Libraries:
-    - Glide
-    - Coil
-    - Picasso
+[![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
 
-- Data Passing:
-    - Serializable
-    - Parcelable
+[![Google Maps](https://img.shields.io/static/v1?label=&message=Google+Maps&color=%234285F4&style=for-the-badge&logo=googlemaps&logoColor=%23FFFFFF)](https://developers.google.com/maps/documentation/android-sdk/overview)
 
-- Navigation:
-    - Navigation Component
-    - Safe Args
-    - Base Deep Linking
+[![JUnit 5](https://img.shields.io/static/v1?label=&message=JUnit+5&color=%2325A162&style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)](https://junit.org/junit5/)
 
-- View Binding:
-    - ViewBinding
-    - ViewBindingPropertyDelegate
+[![Turbine](https://img.shields.io/static/v1?label=&message=Turbine&color=%2300C244&style=for-the-badge&logo=cashapp&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
 
-- UI:
-    - Material Design
-    - ConstraintLayout
-    - Guidelines
+[![Google Play Console](https://img.shields.io/static/v1?label=&message=Google+Play+Console&color=%23414141&style=for-the-badge&logo=googleplay&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
 
-- Pagination Libraries:
-    - Paging3
+[![WebSocket](https://img.shields.io/static/v1?label=&message=WebSocket&color=%23010101&style=for-the-badge&logo=socketdotio&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,as%20RFC%206455%20in%202011.)
+
+[![Yandex MapKit](https://img.shields.io/static/v1?label=&message=Yandex+MapKit&color=EB413E&style=for-the-badge&logo=yandexcloud&logoColor=%23FFFFFF)](https://yandex.com/maps-api/products/mapkit)
+
+[![Algolia](https://img.shields.io/static/v1?label=&message=Algolia&color=%23003DFF&style=for-the-badge&logo=algolia&logoColor=%23FFFFFF)](https://www.algolia.com/)
 
 Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
 
