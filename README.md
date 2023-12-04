@@ -27,86 +27,86 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
 
 Here are the technologies, languages, and libraries I have expertise in:
 
-- Languages: 
-    - ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-    - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-    - ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+[![Object-oriented Programming](https://img.shields.io/static/v1?label=&message=Object-oriented+Programming&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/Object-oriented_programming)
 
-- IDE & Editors:
-    - ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-    - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-    - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-    - ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-    - ![VIM](https://img.shields.io/badge/-VIM-019733?style=for-the-badge&logo=vim&logoColor=white)
+[![SOLID](https://img.shields.io/static/v1?label=&message=SOLID&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/SOLID)
 
-- Operating System:
-    - ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-    - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+[![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&style=for-the-badge&logo=git&logoColor=%23FFFFFF)](https://git-scm.com/)
 
-- API Testing & Development:
-    - ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    - ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-    - ![iOS SDK](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-- Principles and Methodologies:
-    - [![Object-oriented Programming](https://img.shields.io/static/v1?label=&message=Object-oriented+Programming&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/Object-oriented_programming)
-    - [![SOLID](https://img.shields.io/static/v1?label=&message=SOLID&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/SOLID)
-    - [![Clean Architecture](https://img.shields.io/static/v1?label=&message=Clean+Architecture&color=DA948F&style=for-the-badge&logo=internetarchive&logoColor=FFFFFF)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
-    - [![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-    - [![MVP](https://img.shields.io/static/v1?label=&message=MVP&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
-    - [![MVI](https://img.shields.io/static/v1?label=&message=MVI&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://commonsware.com/AndroidArch/pages/chap-mvi-005)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- Asynchronous programming
-    - [![kotlinx-coroutines](https://img.shields.io/static/v1?label=&message=kotlinx-coroutines&color=%237F52FF&style=for-the-badge&logo=kashflow&logoColor=FFFFFF)](https://kotlinlang.org/docs/coroutines-guide.html#table-of-contents)
-    - [![RxJava](https://img.shields.io/static/v1?label=&message=RxJava&color=%23B7178C&style=for-the-badge&logo=reactivex&logoColor=FFFFFF)](https://github.com/ReactiveX/RxJava)- Documentation: 
-    - [![Dokka](https://img.shields.io/static/v1?label=&message=Dokka&color=%237F52FF&style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](https://kotlinlang.org/docs/dokka-introduction.html)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-- Version Control: 
-    - ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-    - GitFlow
+[![kotlinx-coroutines](https://img.shields.io/static/v1?label=&message=kotlinx-coroutines&color=%237F52FF&style=for-the-badge&logo=kashflow&logoColor=FFFFFF)](https://kotlinlang.org/docs/coroutines-guide.html#table-of-contents)
 
-- Build Tools:
-    - ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)    
-- Linting
-    - [![Konsist](https://img.shields.io/static/v1?label=&message=Konsist&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://docs.konsist.lemonappdev.com/getting-started/readme)
+[![RxJava](https://img.shields.io/static/v1?label=&message=RxJava&color=%23B7178C&style=for-the-badge&logo=reactivex&logoColor=FFFFFF)](https://github.com/ReactiveX/RxJava)
 
-- UI building:
-    - [![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)   
-    - [![Jetpack Compose](https://img.shields.io/static/v1?label=&message=Jetpack+Compose&color=%233DDC84&style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF)](https://developer.android.com/jetpack/compose)
-    - ![SwiftUI](https://img.shields.io/badge/SwiftUI-1F77B4?style=for-the-badge&logo=swift&logoColor=white)
 
-- Dependency Injection:
-    - [![Dagger 2](https://img.shields.io/static/v1?label=&message=Dagger+2&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/)
-    - [![Hilt](https://img.shields.io/static/v1?label=&message=Hilt&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/hilt/)
-    - [![Koin](https://img.shields.io/static/v1?label=&message=Koin&color=%232F2E2E&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://insert-koin.io/)
-
-- REST API:
-    - [![Ktor](https://img.shields.io/static/v1?label=&message=Ktor&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://ktor.io/)
-    - [![Retrofit2](https://img.shields.io/static/v1?label=&message=Retrofit2&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/retrofit/)
-    - [![OkHttp](https://img.shields.io/static/v1?label=&message=OkHttp&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/okhttp/)
-
-- GraphQL:
-    - [![Apollo GraphQL](https://img.shields.io/static/v1?label=&message=Apollo+GraphQL&color=%23311C87&style=for-the-badge&logo=apollographql&logoColor=FFFFFF)](https://www.apollographql.com/docs/)
-
-- Database:
-    - [![Realm](https://img.shields.io/static/v1?label=&message=Realm&color=%2339477F&style=for-the-badge&logo=realm&logoColor=FFFFFF)](https://realm.io/)
-    - ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-[![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
-
-[![Google Maps](https://img.shields.io/static/v1?label=&message=Google+Maps&color=%234285F4&style=for-the-badge&logo=googlemaps&logoColor=%23FFFFFF)](https://developers.google.com/maps/documentation/android-sdk/overview)
+[![Dokka](https://img.shields.io/static/v1?label=&message=Dokka&color=%237F52FF&style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](https://kotlinlang.org/docs/dokka-introduction.html)
 
 [![JUnit 5](https://img.shields.io/static/v1?label=&message=JUnit+5&color=%2325A162&style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)](https://junit.org/junit5/)
 
+[![Espresso](https://img.shields.io/static/v1?label=&message=Espresso&color=8E705C&style=for-the-badge&logo=android&logoColor=%23FFFFFF)](https://developer.android.com/training/testing/espresso) 
+
 [![Turbine](https://img.shields.io/static/v1?label=&message=Turbine&color=%2300C244&style=for-the-badge&logo=cashapp&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
 
-[![Google Play Console](https://img.shields.io/static/v1?label=&message=Google+Play+Console&color=%23414141&style=for-the-badge&logo=googleplay&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
+[![Konsist](https://img.shields.io/static/v1?label=&message=Konsist&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://docs.konsist.lemonappdev.com/getting-started/readme)
+
+[![Clean Architecture](https://img.shields.io/static/v1?label=&message=Clean+Architecture&color=DA948F&style=for-the-badge&logo=internetarchive&logoColor=FFFFFF)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+
+[![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+[![MVP](https://img.shields.io/static/v1?label=&message=MVP&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
+
+[![MVI](https://img.shields.io/static/v1?label=&message=MVI&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://commonsware.com/AndroidArch/pages/chap-mvi-005)
+
+![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+[![Gradle](https://img.shields.io/static/v1?label=&message=Gradle&color=%2302303A&style=for-the-badge&logo=gradle&logoColor=%23FFFFFF)](https://docs.gradle.org/current/userguide/userguide.html)    
+
+[![buildSrc](https://img.shields.io/static/v1?label=&message=buildSrc&color=%2302303A&style=for-the-badge&logo=gradle)](https://docs.gradle.org/current/userguide/organizing_gradle_projects.html)
+
+[![Version Catalog](https://img.shields.io/static/v1?label=&message=Version+Catalog&color=%2302303A&style=for-the-badge&logo=gradle)](https://docs.gradle.org/current/userguide/platforms.html)
+
+[![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)   
+
+[![Jetpack Compose](https://img.shields.io/static/v1?label=&message=Jetpack+Compose&color=%233DDC84&style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF)](https://developer.android.com/jetpack/compose)
+
+[![Android Jetpack](https://img.shields.io/static/v1?label=&message=Android+Jetpack&color=%233DDC84&style=for-the-badge&logo=jitpack&logoColor=%23FFFFFF)](https://git-scm.com/)
+
+[![Realm](https://img.shields.io/static/v1?label=&message=Realm&color=%2339477F&style=for-the-badge&logo=realm&logoColor=FFFFFF)](https://realm.io/)
+
+[![SQLite](https://img.shields.io/static/v1?label=&message=SQLite&color=%23003B57&style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF)](https://www.sqlite.org/index.html)
+
+[![Dagger 2](https://img.shields.io/static/v1?label=&message=Dagger+2&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/)
+
+[![Hilt](https://img.shields.io/static/v1?label=&message=Hilt&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/hilt/)
+
+[![Koin](https://img.shields.io/static/v1?label=&message=Koin&color=%232F2E2E&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://insert-koin.io/)
+
+[![Ktor](https://img.shields.io/static/v1?label=&message=Ktor&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://ktor.io/)
+
+[![Retrofit2](https://img.shields.io/static/v1?label=&message=Retrofit2&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/retrofit/)
+
+[![OkHttp](https://img.shields.io/static/v1?label=&message=OkHttp&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/okhttp/)
+
+[![Apollo GraphQL](https://img.shields.io/static/v1?label=&message=Apollo+GraphQL&color=%23311C87&style=for-the-badge&logo=apollographql&logoColor=FFFFFF)](https://www.apollographql.com/docs/)
 
 [![WebSocket](https://img.shields.io/static/v1?label=&message=WebSocket&color=%23010101&style=for-the-badge&logo=socketdotio&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/WebSocket#:~:text=WebSocket%20is%20a%20computer%20communications,as%20RFC%206455%20in%202011.)
 
-[![Yandex MapKit](https://img.shields.io/static/v1?label=&message=Yandex+MapKit&color=EB413E&style=for-the-badge&logo=yandexcloud&logoColor=%23FFFFFF)](https://yandex.com/maps-api/products/mapkit)
+[![Firebase](https://img.shields.io/static/v1?label=&message=Firebase&color=%23FFCA28&style=for-the-badge&logo=firebase&logoColor=%23FFFFFF)](https://firebase.google.com/?gad_source=1)
 
 [![Algolia](https://img.shields.io/static/v1?label=&message=Algolia&color=%23003DFF&style=for-the-badge&logo=algolia&logoColor=%23FFFFFF)](https://www.algolia.com/)
+
+
+[![Google Play Console](https://img.shields.io/static/v1?label=&message=Google+Play+Console&color=%23414141&style=for-the-badge&logo=googleplay&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
+
+[![Google Maps](https://img.shields.io/static/v1?label=&message=Google+Maps&color=%234285F4&style=for-the-badge&logo=googlemaps&logoColor=%23FFFFFF)](https://developers.google.com/maps/documentation/android-sdk/overview)
+
+[![Yandex MapKit](https://img.shields.io/static/v1?label=&message=Yandex+MapKit&color=EB413E&style=for-the-badge&logo=yandexcloud&logoColor=%23FFFFFF)](https://yandex.com/maps-api/products/mapkit)
+
 
 Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
 
