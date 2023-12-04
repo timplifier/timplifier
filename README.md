@@ -55,11 +55,11 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[![Gradle](https://img.shields.io/static/v1?label=&message=Gradle&color=%2302303A&style=for-the-badge&logo=gradle&logoColor=%23FFFFFF)](https://docs.gradle.org/current/userguide/userguide.html)    
+[![Gradle](https://img.shields.io/static/v1?label=&message=Gradle&color=%2302303A&style=for-the-badge&logo=gradle&logoColor=%23FFFFFF)](https://docs.gradle.org/current/userguide/userguide.html)
 [![buildSrc](https://img.shields.io/static/v1?label=&message=buildSrc&color=%2302303A&style=for-the-badge&logo=gradle)](https://docs.gradle.org/current/userguide/organizing_gradle_projects.html)
 [![Version Catalog](https://img.shields.io/static/v1?label=&message=Version+Catalog&color=%2302303A&style=for-the-badge&logo=gradle)](https://docs.gradle.org/current/userguide/platforms.html)
 
-[![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)   
+[![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)
 [![Jetpack Compose](https://img.shields.io/static/v1?label=&message=Jetpack+Compose&color=%233DDC84&style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF)](https://developer.android.com/jetpack/compose)
 
 [![Android Jetpack](https://img.shields.io/static/v1?label=&message=Android+Jetpack&color=%233DDC84&style=for-the-badge&logo=jitpack&logoColor=%23FFFFFF)](https://git-scm.com/)
