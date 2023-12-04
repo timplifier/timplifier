@@ -34,62 +34,45 @@ Here are the technologies, languages, and libraries I have expertise in:
 [![Git](https://img.shields.io/static/v1?label=&message=Git&color=%23F05032&style=for-the-badge&logo=git&logoColor=%23FFFFFF)](https://git-scm.com/)
 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 [![kotlinx-coroutines](https://img.shields.io/static/v1?label=&message=kotlinx-coroutines&color=%237F52FF&style=for-the-badge&logo=kashflow&logoColor=FFFFFF)](https://kotlinlang.org/docs/coroutines-guide.html#table-of-contents)
-
 [![RxJava](https://img.shields.io/static/v1?label=&message=RxJava&color=%23B7178C&style=for-the-badge&logo=reactivex&logoColor=FFFFFF)](https://github.com/ReactiveX/RxJava)
-
 
 [![Dokka](https://img.shields.io/static/v1?label=&message=Dokka&color=%237F52FF&style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](https://kotlinlang.org/docs/dokka-introduction.html)
 
 [![JUnit 5](https://img.shields.io/static/v1?label=&message=JUnit+5&color=%2325A162&style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)](https://junit.org/junit5/)
-
 [![Espresso](https://img.shields.io/static/v1?label=&message=Espresso&color=8E705C&style=for-the-badge&logo=android&logoColor=%23FFFFFF)](https://developer.android.com/training/testing/espresso) 
-
 [![Turbine](https://img.shields.io/static/v1?label=&message=Turbine&color=%2300C244&style=for-the-badge&logo=cashapp&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
-
 [![Konsist](https://img.shields.io/static/v1?label=&message=Konsist&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://docs.konsist.lemonappdev.com/getting-started/readme)
 
 [![Clean Architecture](https://img.shields.io/static/v1?label=&message=Clean+Architecture&color=DA948F&style=for-the-badge&logo=internetarchive&logoColor=FFFFFF)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
 [![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
 [![MVP](https://img.shields.io/static/v1?label=&message=MVP&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
-
 [![MVI](https://img.shields.io/static/v1?label=&message=MVI&color=%231B6AC6&style=for-the-badge&logo=hackthebox&logoColor=%23FFFFFF)](https://commonsware.com/AndroidArch/pages/chap-mvi-005)
 
 ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 [![Gradle](https://img.shields.io/static/v1?label=&message=Gradle&color=%2302303A&style=for-the-badge&logo=gradle&logoColor=%23FFFFFF)](https://docs.gradle.org/current/userguide/userguide.html)    
-
 [![buildSrc](https://img.shields.io/static/v1?label=&message=buildSrc&color=%2302303A&style=for-the-badge&logo=gradle)](https://docs.gradle.org/current/userguide/organizing_gradle_projects.html)
-
 [![Version Catalog](https://img.shields.io/static/v1?label=&message=Version+Catalog&color=%2302303A&style=for-the-badge&logo=gradle)](https://docs.gradle.org/current/userguide/platforms.html)
 
 [![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)   
-
 [![Jetpack Compose](https://img.shields.io/static/v1?label=&message=Jetpack+Compose&color=%233DDC84&style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF)](https://developer.android.com/jetpack/compose)
 
 [![Android Jetpack](https://img.shields.io/static/v1?label=&message=Android+Jetpack&color=%233DDC84&style=for-the-badge&logo=jitpack&logoColor=%23FFFFFF)](https://git-scm.com/)
 
 [![Realm](https://img.shields.io/static/v1?label=&message=Realm&color=%2339477F&style=for-the-badge&logo=realm&logoColor=FFFFFF)](https://realm.io/)
-
 [![SQLite](https://img.shields.io/static/v1?label=&message=SQLite&color=%23003B57&style=for-the-badge&logo=sqlite&logoColor=%23FFFFFF)](https://www.sqlite.org/index.html)
 
 [![Dagger 2](https://img.shields.io/static/v1?label=&message=Dagger+2&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/)
-
 [![Hilt](https://img.shields.io/static/v1?label=&message=Hilt&color=%234285F4&style=for-the-badge&logo=google&logoColor=%23FFFFFF)](https://dagger.dev/hilt/)
-
 [![Koin](https://img.shields.io/static/v1?label=&message=Koin&color=%232F2E2E&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://insert-koin.io/)
 
 [![Ktor](https://img.shields.io/static/v1?label=&message=Ktor&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=%23FFFFFF)](https://ktor.io/)
-
 [![Retrofit2](https://img.shields.io/static/v1?label=&message=Retrofit2&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/retrofit/)
-
 [![OkHttp](https://img.shields.io/static/v1?label=&message=OkHttp&color=%233E4348&style=for-the-badge&logo=square&logoColor=FFFFFF)](https://square.github.io/okhttp/)
 
 [![Apollo GraphQL](https://img.shields.io/static/v1?label=&message=Apollo+GraphQL&color=%23311C87&style=for-the-badge&logo=apollographql&logoColor=FFFFFF)](https://www.apollographql.com/docs/)
