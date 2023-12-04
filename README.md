@@ -87,7 +87,6 @@ Here are the technologies, languages, and libraries I have expertise in:
 [![Google Play Console](https://img.shields.io/static/v1?label=&message=Google+Play+Console&color=%23414141&style=for-the-badge&logo=googleplay&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
 
 [![Google Maps](https://img.shields.io/static/v1?label=&message=Google+Maps&color=%234285F4&style=for-the-badge&logo=googlemaps&logoColor=%23FFFFFF)](https://developers.google.com/maps/documentation/android-sdk/overview)
-
 [![Yandex MapKit](https://img.shields.io/static/v1?label=&message=Yandex+MapKit&color=EB413E&style=for-the-badge&logo=yandexcloud&logoColor=%23FFFFFF)](https://yandex.com/maps-api/products/mapkit)
 
 
