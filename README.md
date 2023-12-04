@@ -1,6 +1,6 @@
 # Timur Abdyraev: Passionate Android Developer
 
-Hello, I'm Timur Abdyraev, an Android Developer with 2 years and 1 month of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
+Hello, I'm Timur Abdyraev, an Android Developer with 2 years and 2 months of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
 
 ## My Professional Journey 🚀
 
@@ -49,18 +49,18 @@ Here are the technologies, languages, and libraries I have expertise in:
     - ![iOS SDK](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 - Principles and Methodologies:
-    - OOP
-    - SOLID
-    - Clean Architecture
+    - [![Object-oriented Programming](https://img.shields.io/static/v1?label=&message=Object-oriented+Programming&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/Object-oriented_programming)
+    - [![SOLID](https://img.shields.io/static/v1?label=&message=SOLID&color=%231B6AC6&style=for-the-badge&logo=apachenetbeanside)](https://en.wikipedia.org/wiki/SOLID)
+    - [![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-?style=for-the-badge&logo=internetarchive#1B6AC6)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
     - Single Activity Architecture
     - MVVM, MVI, MVP
     - Modularization
 
 - Asynchronous programming
-    - kotlinx-coroutines
-    - RxJava
+    - [![kotlinx-coroutines](https://img.shields.io/badge/kotlinx--coroutines-?style=for-the-badge&logo=kashflow&logoColor=FFFFFF#7F52FF)](https://kotlinlang.org/docs/coroutines-guide.html)
+    - [![RxJava](https://img.shields.io/badge/RxJava-?style=for-the-badge&logo=reactivex&logoColor=FFFFFF#B7178C)](https://github.com/ReactiveX/RxJava)
 - Documentation: 
-    - Dokka (HTML-Based, Markdown-Based)
+    - [![Dokka](https://img.shields.io/badge/Dokka-?style=for-the-badge&logo=googledocs&logoColor=FFFFFF#7F52FF)](https://kotlinlang.org/docs/dokka-introduction.html)
 
 - Version Control: 
     - ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -74,8 +74,8 @@ Here are the technologies, languages, and libraries I have expertise in:
     - Konsist
 
 - UI building:
-    - XML   
-    - Jetpack Compose
+    - [![XML](https://img.shields.io/static/v1?label=&message=XML&color=%23E34F26&style=for-the-badge&logo=xaml&logoColor=FFFFFF)](https://en.wikipedia.org/wiki/XML)   
+    - [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-?style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF#3DDC84)](https://developer.android.com/jetpack/compose)
     - ![SwiftUI](https://img.shields.io/badge/SwiftUI-1F77B4?style=for-the-badge&logo=swift&logoColor=white)
 
 - Dependency Injection:
