@@ -49,9 +49,10 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 [![Clean Architecture](https://img.shields.io/static/v1?label=&message=Clean+Architecture&color=DA948F&style=for-the-badge&logo=internetarchive&logoColor=FFFFFF)](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
 
-[![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=%231B6AC6&style=for-the-badge&logo=onlyoffice&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+[![MVC](https://img.shields.io/static/v1?label=&message=MVC&color=1B6Ac6&style=for-the-badge&logo=onlyoffice)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
 [![MVP](https://img.shields.io/static/v1?label=&message=MVP&color=%231B6AC6&style=for-the-badge&logo=onlyoffice&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter)
 [![MVI](https://img.shields.io/static/v1?label=&message=MVI&color=%231B6AC6&style=for-the-badge&logo=onlyoffice&logoColor=%23FFFFFF)](https://cycle.js.org/model-view-intent.html)
+[![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=%231B6AC6&style=for-the-badge&logo=onlyoffice&logoColor=%23FFFFFF)](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 ![Android SDK](https://img.shields.io/badge/-Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
