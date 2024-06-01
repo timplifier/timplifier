@@ -1,5 +1,6 @@
 # Ignore node
 node_modules
+package-lock.json
 
 # Ignore Mac OS X
 **/.DS_Store
