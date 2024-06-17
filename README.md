@@ -106,5 +106,5 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
   <a href="https://www.codewars.com/users/timplifier"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
 </div>
 <div align="center">
-  <a href="https://github.com/timplifier"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=timplifier&number_format=long&include_all_commits=true&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark"/></a>
+  <a href="https://github.com/timplifier"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=timplifier&number_format=long&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark"/></a>
 </div>
