@@ -20,9 +20,10 @@ I have been working as an Android Developer for 2 years, during which I've breat
 
 ## Continuous Learning 📚
 
-I am dedicated to continuous learning and stay up-to-date with the latest libraries, frameworks, and methods to enhance the user experience and bring cutting-edge solutions to my projects. 
+I am dedicated to continuous learning and stay up-to-date with the latest libraries, frameworks, and methods to enhance the user experience and bring cutting-edge solutions to my projects.
 
 Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
+
 ## My Technology Stack 💻
 
 Here are the technologies, languages, and libraries I have expertise in:
@@ -43,7 +44,7 @@ Here are the technologies, languages, and libraries I have expertise in:
 [![Dokka](https://img.shields.io/static/v1?label=&message=Dokka&color=%237F52FF&style=for-the-badge&logo=googledocs&logoColor=FFFFFF)](https://kotlinlang.org/docs/dokka-introduction.html)
 
 [![JUnit 5](https://img.shields.io/static/v1?label=&message=JUnit+5&color=%2325A162&style=for-the-badge&logo=junit5&logoColor=%23FFFFFF)](https://junit.org/junit5/)
-[![Espresso](https://img.shields.io/static/v1?label=&message=Espresso&color=8E705C&style=for-the-badge&logo=android&logoColor=%23FFFFFF)](https://developer.android.com/training/testing/espresso) 
+[![Espresso](https://img.shields.io/static/v1?label=&message=Espresso&color=8E705C&style=for-the-badge&logo=android&logoColor=%23FFFFFF)](https://developer.android.com/training/testing/espresso)
 [![Turbine](https://img.shields.io/static/v1?label=&message=Turbine&color=%2300C244&style=for-the-badge&logo=cashapp&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
 [![Konsist](https://img.shields.io/static/v1?label=&message=Konsist&color=%237F52FF&style=for-the-badge&logo=kotlin&logoColor=FFFFFF)](https://docs.konsist.lemonappdev.com/getting-started/readme)
 
@@ -84,12 +85,10 @@ Here are the technologies, languages, and libraries I have expertise in:
 
 [![Algolia](https://img.shields.io/static/v1?label=&message=Algolia&color=%23003DFF&style=for-the-badge&logo=algolia&logoColor=%23FFFFFF)](https://www.algolia.com/)
 
-
 [![Google Play Console](https://img.shields.io/static/v1?label=&message=Google+Play+Console&color=%23414141&style=for-the-badge&logo=googleplay&logoColor=%23FFFFFF)](https://github.com/cashapp/turbine)
 
 [![Google Maps](https://img.shields.io/static/v1?label=&message=Google+Maps&color=%234285F4&style=for-the-badge&logo=googlemaps&logoColor=%23FFFFFF)](https://developers.google.com/maps/documentation/android-sdk/overview)
 [![Yandex MapKit](https://img.shields.io/static/v1?label=&message=Yandex+MapKit&color=EB413E&style=for-the-badge&logo=yandexcloud&logoColor=%23FFFFFF)](https://yandex.com/maps-api/products/mapkit)
-
 
 Feel free to reach out to me for collaborations, discussions, or any Android-related queries you may have. Happy coding!
 
@@ -98,7 +97,7 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
 <div align="center">
 <a
   <a href="https://telegram.me/timplifier"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/timur-abdyraev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/timplifier/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:timplifier@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://discord.gg/PKYndDQW"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://dev.to/timplifier"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
