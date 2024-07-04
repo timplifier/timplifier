@@ -105,5 +105,7 @@ Feel free to reach out to me for collaborations, discussions, or any Android-rel
   <a href="https://www.codewars.com/users/timplifier"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey"/></a>
 </div>
 <div align="center">
+  <a href="https://wakatime.com/@b1551d26-5b23-4c7b-9ab7-99886261501e"><img src="https://wakatime.com/badge/user/b1551d26-5b23-4c7b-9ab7-99886261501e.svg" alt="Total time coded since Aug 6 2022" /></a></div>
+<div align="center">
   <a href="https://github.com/timplifier"><img alt="GitHub Status" src="https://github-readme-stats.vercel.app/api?username=timplifier&number_format=long&show_icons=true&include_all_commits=true&count_private=true&theme=solarized-dark"/></a>
 </div>
