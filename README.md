@@ -1,10 +1,10 @@
 # Timur Abdyraev: Passionate Middle Android Developer
 
-Hello, I'm Timur Abdyraev, a Middle Android Developer with over 2 years of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
+Hello, I'm Timur Abdyraev, a Middle Android Developer with over 3 years of solid experience specializing in revitalizing legacy projects and crafting user-friendly interfaces.
 
 ## My Professional Journey 🚀
 
-I have been working as an Android Developer for over 2 years, during which I've breathed new life into many legacy projects that had been untouched by the latest technologies for years. My journey has included:
+I have been working as an Android Developer for over 3 years, during which I've breathed new life into many legacy projects that had been untouched by the latest technologies for years. My journey has included:
 
 - **Developing User Interfaces**: I've developed numerous user-friendly interfaces employing innovative UI Kits, resulting in intuitive and engaging user experiences.
 
